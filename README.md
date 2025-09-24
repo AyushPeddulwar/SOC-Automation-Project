@@ -6,7 +6,7 @@ This project uses Wazuh, TheHive, and Shuffle to automate security operations, i
 ## Flow Diagram
 The project brings together various tools and systems to streamline and improve SOC operations. The design layout is provided below for reference.
 
-<img src="https://github.com/AyushPeddulwar/SOC-Automattion-Project/">
+<img src="https://github.com/AyushPeddulwar/SOC-Automation-Project/blob/main/soc%20flow.png" width=800>
 <br>
 
 ## Project Walkthrough
